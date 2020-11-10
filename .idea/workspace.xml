@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5caa8eb2-8a86-4947-aee9-29da01ddc251" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models/Bansis/Hacienda" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -185,7 +186,9 @@
       <workItem from="1605016080787" duration="4058000" />
       <workItem from="1605020977751" duration="27000" />
       <workItem from="1605022516886" duration="58000" />
-      <workItem from="1605023073632" duration="20000" />
+      <workItem from="1605023073632" duration="81000" />
+      <workItem from="1605024863844" duration="17000" />
+      <workItem from="1605027103619" duration="1638000" />
     </task>
     <servers />
   </component>
